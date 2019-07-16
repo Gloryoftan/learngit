@@ -1,0 +1,5 @@
+this is a test for futher git learning, now I came across a problem that i can not clone a certain github project.
+it's a privte github project.
+i tested some other projects, and they worked out correctly, but not this one.
+now i m trying to test the different between clone.
+this is a commit of cloned project.
